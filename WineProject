@@ -20,3 +20,4 @@ java.lang.RuntimeException: Maven build failed
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 Finished: FAILURE
+We need to resolve the all/ selected issue for service and for project. 
