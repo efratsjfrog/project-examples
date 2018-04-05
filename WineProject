@@ -6,3 +6,17 @@ https://mission-control-distribution.jfrogdev.co/#!/project/efa6cc29-6484-48ec-9
 https://mission-control-distribution.jfrogdev.co/#!/project/efa6cc29-6484-48ec-90fd-8f24fed49a74
 6.0.0-m019
 fssfsafs
+[Pipeline] // node
+[Pipeline] End of Pipeline
+java.lang.RuntimeException: Maven build failed
+	at org.jfrog.hudson.pipeline.steps.ArtifactoryMavenBuild$Execution.run(ArtifactoryMavenBuild.java:108)
+	at org.jfrog.hudson.pipeline.steps.ArtifactoryMavenBuild$Execution.run(ArtifactoryMavenBuild.java:61)
+	at org.jenkinsci.plugins.workflow.steps.AbstractSynchronousNonBlockingStepExecution$1$1.call(AbstractSynchronousNonBlockingStepExecution.java:47)
+	at hudson.security.ACL.impersonate(ACL.java:260)
+	at org.jenkinsci.plugins.workflow.steps.AbstractSynchronousNonBlockingStepExecution$1.run(AbstractSynchronousNonBlockingStepExecution.java:44)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Finished: FAILURE
