@@ -6,7 +6,19 @@ https://mission-control-distribution.jfrogdev.co/#!/project/efa6cc29-6484-48ec-9
 https://mission-control-distribution.jfrogdev.co/#!/project/efa6cc29-6484-48ec-90fd-8f24fed49a74
 6.0.0-m019
 fssfsafs
-[Pipeline] // node
+[Pipeline] // nodeasdasdas
+
+asd
+as
+d
+as
+da
+sd
+as
+d
+asd
+as
+d
 [Pipeline] End of Pipeline
 java.lang.RuntimeException: Maven build failed
 	at org.jfrog.hudson.pipeline.steps.ArtifactoryMavenBuild$Execution.run(ArtifactoryMavenBuild.java:108)
