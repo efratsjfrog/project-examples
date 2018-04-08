@@ -10,7 +10,20 @@ fssfsafs
 [Pipeline] End of Pipeline
 java.lang.RuntimeException: Maven build failed
 	at org.jfrog.hudson.pipeline.steps.ArtifactoryMavenBuild$Execution.run(ArtifactoryMavenBuild.java:108)
-	at org.jfrog.hudson.pipeline.steps.ArtifactoryMavenBuild$Execution.run(ArtifactoryMavenBuild.java:61)
+	at org.jfrog.hudson.pipeline.steps.ArtifactoryMaven
+	
+	
+	
+	
+	sdf
+	sd
+	f
+	ds
+	fsd
+	f
+	sd
+	fds
+	Build$Execution.run(ArtifactoryMavenBuild.java:61)
 	at org.jenkinsci.plugins.workflow.steps.AbstractSynchronousNonBlockingStepExecution$1$1.call(AbstractSynchronousNonBlockingStepExecution.java:47)
 	at hudson.security.ACL.impersonate(ACL.java:260)
 	at org.jenkinsci.plugins.workflow.steps.AbstractSynchronousNonBlockingStepExecution$1.run(AbstractSynchronousNonBlockingStepExecution.java:44)
