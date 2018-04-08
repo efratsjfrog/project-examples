@@ -22,3 +22,4 @@ java.lang.RuntimeException: Maven build failed
 Finished: FAILURE
 We need to resolve the all/ selected issue for service and for project. 
 Artifactory return code 503 when JFMC validate service
+kkjh, kjglkjlk
